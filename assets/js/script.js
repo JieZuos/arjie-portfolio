@@ -63,6 +63,7 @@ window.addEventListener('load', () => {
 			duration: 1.5,
 			ease: "power4.out"
 		});
+		window.location.hash = 'home';
 	}, 1500);
 });
 
