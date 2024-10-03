@@ -1,6 +1,18 @@
 [
-    {
+        {
       "id": 1,
+      "title": "Event and Raffle System",
+      "project_description": "The Event and Raffle System was designed and developed for Juan D. Nepomuceno (JDN) to streamline the management of events and allow users to actively participate. The system enables event organizers to create and manage events, while participants can register, view event details, and engage in raffles. This system simplifies the process for both organizers and participants, ensuring seamless event execution with an integrated raffle component for added excitement.",
+      "image_path": "/assets/imgs/event-raffle/",
+      "image_count": 1,
+      "problem": "Before the system was introduced, event organizers faced challenges in managing attendee participation and event logistics. Tracking participant registration, handling event updates, and organizing raffles for attendees were all done manually, which resulted in inefficiencies, delayed communication, and a disorganized event flow.",
+      "solution": "The Event Raffle and Event System automated the entire process, providing a centralized platform where organizers could easily create events, manage registrations, and handle event-related tasks. Participants were able to register online, receive timely event updates, and automatically enroll in raffles. The system’s raffle feature ensured fairness and transparency in selecting winners, while simplifying participant management and event tracking for the organizers.",
+      "company": "JDN",
+      "date_range": "February 2023 - March 2023",
+      "technologies": ["Laravel", "MySQL", "JavaScript", "Bootstrap"]
+    },
+    {
+      "id": 2,
       "title": "Car Rental System",
       "project_description": "A web-based system designed to streamline the car rental process for employees, allowing them to create tickets, check availability, and manage bookings.",
       "image_path": "/assets/imgs/car-rental-system/",
@@ -12,7 +24,7 @@
       "technologies": ["Laravel", "MySQL", "JavaScript", "Bootstrap"]
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "Raffle System",
       "project_description": "An automated raffle system that enables easy setup and execution of company raffles with an integrated prize distribution and management system.",
       "image_path": "/assets/imgs/raffle-system/",
@@ -24,7 +36,7 @@
       "technologies": ["Laravel", "MySQL", "JavaScript", "Bootstrap"]
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Helpdesk System Upgrade",
       "project_description": "An enhanced helpdesk system to manage support requests across multiple departments, improving request tracking and service response.",
       "image_path": "/assets/imgs/helpdesk/",
@@ -36,7 +48,7 @@
       "technologies": ["Laravel", "MySQL", "JavaScript", "Bootstrap"]
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "Asset Inventory System",
       "project_description": "A revamped asset inventory system that uses QR codes for real-time asset tracking and easy management.",
       "image_path": "/assets/imgs/asset-inventory/",
@@ -48,7 +60,7 @@
       "technologies": ["Laravel", "MySQL", "JavaScript", "Bootstrap"]
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "Laravel Project Upgrade & Clean-up",
       "project_description": "Upgraded an existing Laravel project from version 5.6 to version 11, including refactoring, directory cleanup, and performance optimization.",
       "image_path": "/assets/imgs/luthas-upgrade/",
@@ -59,17 +71,5 @@
       "date_range": "June 2024 - October 2024",
       "technologies": ["Laravel", "MySQL", "JavaScript", "Bootstrap"]
     },
-    {
-      "id": 6,
-      "title": "Event and Raffle System",
-      "project_description": "The Event and Raffle System was designed and developed for Juan D. Nepomuceno (JDN) to streamline the management of events and allow users to actively participate. The system enables event organizers to create and manage events, while participants can register, view event details, and engage in raffles. This system simplifies the process for both organizers and participants, ensuring seamless event execution with an integrated raffle component for added excitement.",
-      "image_path": "/assets/imgs/event-raffle/",
-      "image_count": 1,
-      "problem": "Before the system was introduced, event organizers faced challenges in managing attendee participation and event logistics. Tracking participant registration, handling event updates, and organizing raffles for attendees were all done manually, which resulted in inefficiencies, delayed communication, and a disorganized event flow.",
-      "solution": "The Event Raffle and Event System automated the entire process, providing a centralized platform where organizers could easily create events, manage registrations, and handle event-related tasks. Participants were able to register online, receive timely event updates, and automatically enroll in raffles. The system’s raffle feature ensured fairness and transparency in selecting winners, while simplifying participant management and event tracking for the organizers.",
-      "company": "JDN",
-      "date_range": "February 2023 - March 2023",
-      "technologies": ["Laravel", "MySQL", "JavaScript", "Bootstrap"]
-    }
     
   ]
