@@ -1,5 +1,5 @@
 [
-        {
+     {
       "id": 1,
       "title": "Event and Raffle System",
       "project_description": "The Event and Raffle System was designed and developed for Juan D. Nepomuceno (JDN) to streamline the management of events and allow users to actively participate. The system enables event organizers to create and manage events, while participants can register, view event details, and engage in raffles. This system simplifies the process for both organizers and participants, ensuring seamless event execution with an integrated raffle component for added excitement.",
@@ -71,5 +71,4 @@
       "date_range": "June 2024 - October 2024",
       "technologies": ["Laravel", "MySQL", "JavaScript", "Bootstrap"]
     },
-    
   ]
