@@ -64,7 +64,7 @@
         "title": "Laravel Project Upgrade & Clean-up",
         "project_description": "Upgraded an existing Laravel project from version 5.6 to version 11, including refactoring, directory cleanup, and performance optimization.",
         "image_path": "/assets/imgs/luthas-upgrade/",
-        "image_count": 7,
+        "image_count": 6,
         "problem": "The project had controllers, models, and public files placed in improper folders, duplicated data, inconsistent usage of scripts and CSS, and was using Laravel 5.6, which made it difficult to implement modern features and security updates.",
         "solution": "The project was cleaned up by organizing files in proper folders, transferring public attachments to a file server, upgrading to a cleaner and more modern UI to enhance the user experience, and upgrading from Laravel 5.6 to 10.",
         "company": "Luenthai",

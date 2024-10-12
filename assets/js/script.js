@@ -2,35 +2,30 @@ gsap.registerPlugin(ScrollTrigger);
 // Calculate Experience Function
 $(".exitBtn").hide();
 $('.pr-show').hide();
-var chartData = [{
-    id: "su__chart-bar-1",
-    label: "HTML",
-    height: "95%",
-    color: "#E44D26", // HTML logo color
-  },
-  {
-    id: "su__chart-bar-2",
-    label: "CSS",
-    height: "90%",
-    color: "#1572B6", // CSS logo color
-  },
-  {
-    id: "su__chart-bar-3",
-    label: "JavaScript / jQuery",
-    height: "80%",
-    color: "#dbc61a", // JavaScript logo color
-  },
-  {
-    id: "su__chart-bar-4",
-    label: "PHP",
-    height: "90%",
-    color: "#787CB5", // PHP logo color
-  },
+var chartData = [
   {
     id: "su__chart-bar-5",
     label: "Laravel",
     height: "95%",
     color: "#FF2D20", // Laravel logo color
+  },
+  {
+    id: "su__chart-bar-3",
+    label: "Vanilla JavaScript",
+    height: "80%",
+    color: "#F0DB4F", // Updated JavaScript logo color
+  },
+  {
+    id: "su__chart-bar-9", // Updated ID to avoid duplicate
+    label: "Node.js",
+    height: "80%",
+    color: "#68A063", // Node.js logo color
+  },
+  {
+    id: "su__chart-bar-8", 
+    label: "React",
+    height: "60%",
+    color: "#61DAFB", // Updated React logo color
   },
   {
     id: "su__chart-bar-6",
@@ -39,18 +34,31 @@ var chartData = [{
     color: "#4479A1", // MySQL logo color
   },
   {
+    id: "su__chart-bar-4",
+    label: "PHP",
+    height: "90%",
+    color: "#787CB5", // PHP logo color
+  },
+  {
     id: "su__chart-bar-7",
     label: "Blender",
     height: "70%",
     color: "#F5792A", // Blender logo color
   },
   {
-    id: "su__chart-bar-8",
-    label: "Vite.js / React",
-    height: "60%",
-    color: "#4eadc7", // React logo color
+    id: "su__chart-bar-1",
+    label: "HTML",
+    height: "95%",
+    color: "#E34F26", // HTML logo color
+  },
+  {
+    id: "su__chart-bar-2",
+    label: "CSS",
+    height: "95%",
+    color: "#1572B6", // CSS logo color
   }
 ];
+
 
 
 
