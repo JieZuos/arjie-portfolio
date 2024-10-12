@@ -12,13 +12,13 @@ var chartData = [
   {
     id: "su__chart-bar-3",
     label: "Vanilla JavaScript",
-    height: "80%",
+    height: "90%",
     color: "#F0DB4F", // Updated JavaScript logo color
   },
   {
     id: "su__chart-bar-9", // Updated ID to avoid duplicate
     label: "Node.js",
-    height: "80%",
+    height: "85%",
     color: "#68A063", // Node.js logo color
   },
   {
